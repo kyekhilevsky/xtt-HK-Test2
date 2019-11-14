@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update sys_domain="global" table="sys_app_application">
+    <sys_app_application action="INSERT_OR_UPDATE">
+        <active>true</active>
+        <category display_value="">Custom Applications</category>
+        <description/>
+        <device_type>browser</device_type>
+        <hint/>
+        <name/>
+        <order/>
+        <roles>admin</roles>
+        <sys_class_name>sys_app_application</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2019-11-14 19:06:52</sys_created_on>
+        <sys_domain>global</sys_domain>
+        <sys_domain_path>/</sys_domain_path>
+        <sys_id>800cd472c08d0010964f43777c4b22ad</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>HK-Test2</sys_name>
+        <sys_overrides/>
+        <sys_package display_value="HK-Test2" source="x_nutr_hk_test2">b2db5c32c08d0010964f43777c4b22a3</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="HK-Test2">b2db5c32c08d0010964f43777c4b22a3</sys_scope>
+        <sys_update_name>sys_app_application_800cd472c08d0010964f43777c4b22ad</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2019-11-14 19:06:52</sys_updated_on>
+        <title>HK-Test2</title>
+        <view_name/>
+    </sys_app_application>
+</record_update>
